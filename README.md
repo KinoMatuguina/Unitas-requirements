@@ -57,7 +57,7 @@
 #### SUMMARY
 
  - resend
- - check mark if done# UNITAS MEETING 05-29-17 2:17PM
+ - check mark if done
 
 #### SERVICES
 
