@@ -21,6 +21,8 @@
 
  - Dropdown on select products
  - cant select upsize bundle until other productss is not finish.
+ - Filters save on store
+ - selected products save on store
 
 #### TASK
 
@@ -28,6 +30,10 @@
   - dropdown on sort type.
   - maker and checker ID and refference number
   - widgets for refference number (search)
+
+### SEARCH CUSTOMER
+
+  - disable save, preview
 
 #### BREADCRUMBS
 
