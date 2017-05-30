@@ -1,15 +1,15 @@
 # UNITAS MEETING 05-29-17 2:17PM
 
-####SERVICES
+#### SERVICES
 
  - classification of account
 
-####LOGIN
+#### LOGIN
 
  - no comment
  - need help? (ex: via lotus notes email request) > mailto:example@email.com
   
-####DASHBOARD
+#### DASHBOARD
 
  - parametarize (status of opening)
  - tile view or list view (not sure)
@@ -17,58 +17,58 @@
  - list of FI
  - view trail
 
-####SELECT PRODUCT FEATURES
+#### SELECT PRODUCT FEATURES
 
  - Dropdown on select products
  - cant select upsize bundle until other productss is not finish.
 
-####TASK
+#### TASK
 
   - sorting on widgets.
   - dropdown on sort type.
   - maker and checker ID and refference number
   - widgets for refference number (search)
 
-####BREADCRUMBS
+#### BREADCRUMBS
 
  - remove timer
  - background timer
  - move ndv after FATCA
 
-####BASIC BUNDLE
+#### BASIC BUNDLE
 
  - auto populate data for automatic enrollment.
 
-####BASIC INFO
+#### BASIC INFO
 
  - remove address on financial.
  - tick box if theres is a home or office.
  - mail to permanent.
  
 
-####FATCA
+#### FATCA
 
  - automatic with indicator on
  - auto selection (Depends on country)
 
-####BASIC BUNDLE
+#### BASIC BUNDLE
 
 
-####SUMMARY
+#### SUMMARY
 
  - resend
  - check mark if done# UNITAS MEETING 05-29-17 2:17PM
 
-####SERVICES
+#### SERVICES
 
  - classification of account
 
-####LOGIN
+#### LOGIN
 
  - no comment
  - need help? (ex: via lotus notes email request) > mailto:example@email.com
   
-####DASHBOARD
+#### DASHBOARD
 
  - parametarize (status of opening)
  - tile view or list view (not sure)
@@ -76,44 +76,44 @@
  - list of FI
  - view trail
 
-####SELECT PRODUCT FEATURES
+#### SELECT PRODUCT FEATURES
 
  - Dropdown on select products
  - cant select upsize bundle until other productss is not finish.
 
-####TASK
+#### TASK
 
   - sorting on widgets.
   - dropdown on sort type.
   - maker and checker ID and refference number
   - widgets for refference number (search)
 
-####BREADCRUMBS
+#### BREADCRUMBS
 
  - remove timer
  - background timer
  - move ndv after FATCA
 
-####BASIC BUNDLE
+#### BASIC BUNDLE
 
  - auto populate data for automatic enrollment.
 
-####BASIC INFO
+#### BASIC INFO
 
  - remove address on financial.
  - tick box if theres is a home or office.
  - mail to permanent.
  
 
-####FATCA
+#### FATCA
 
  - automatic with indicator on
  - auto selection (Depends on country)
 
-####BASIC BUNDLE
+#### BASIC BUNDLE
 
 
-####SUMMARY
+#### SUMMARY
 
  - resend
  - check mark if done
