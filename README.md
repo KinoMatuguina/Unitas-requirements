@@ -17,6 +17,11 @@
  - list of FI
  - view trail
 
+#### INTEGRATION
+ 
+ - always send reference number
+ - always send userCd
+
 #### SELECT PRODUCT FEATURES
 
  - Dropdown on select products
@@ -34,6 +39,8 @@
 ### SEARCH CUSTOMER
 
   - disable save, preview
+  - name & date of birth & TIN || SSS || GSIS
+
 
 #### BREADCRUMBS
 
@@ -56,6 +63,7 @@
 
  - automatic with indicator on
  - auto selection (Depends on country)
+ - maintainable document list(underscore map function)
 
 #### BASIC BUNDLE
 
